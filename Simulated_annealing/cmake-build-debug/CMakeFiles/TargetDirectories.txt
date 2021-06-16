@@ -1,0 +1,3 @@
+/home/byczong/Documents/Studia/Programowanie_w_cpp/Simulated_annealing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/byczong/Documents/Studia/Programowanie_w_cpp/Simulated_annealing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/byczong/Documents/Studia/Programowanie_w_cpp/Simulated_annealing/cmake-build-debug/CMakeFiles/Simulated_annealing.dir
